@@ -17,5 +17,5 @@
         "psr-4": {
             "tmukherjee13\\notification\\": "src"
         }
-    },
+    }
 }
