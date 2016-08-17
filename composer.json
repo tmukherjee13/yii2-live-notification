@@ -7,7 +7,8 @@
         "cboden/ratchet": "^0.3.5",
         "react/zmq": "0.2.*|0.3.*"
     },
-    "license": "MIT",
+    "keywords": ["yii2","extension","live-notification"],
+    "license": "BSD-3-Clause",
     "authors": [{
         "name": "Tarun M",
         "email": "tmukherjee13@gmail.com"
